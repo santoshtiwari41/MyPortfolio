@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Myportfolio/static/css/main.07ac4c7f.css",
+    "main.js": "/Myportfolio/static/js/main.d3662fd9.js",
+    "static/media/farm3.png": "/Myportfolio/static/media/farm3.b020554146492addcd1b.png",
+    "static/media/hamrocollege2.png": "/Myportfolio/static/media/hamrocollege2.ad8f33b7c141be0dc845.png",
+    "static/media/hamrocollege.png": "/Myportfolio/static/media/hamrocollege.f0349276ea7019d32e1d.png",
+    "static/media/famr6.png": "/Myportfolio/static/media/famr6.1bbd6a6383eee762037b.png",
+    "static/media/farm2door.png": "/Myportfolio/static/media/farm2door.65da729b553384379b9b.png",
+    "static/media/resume.pdf": "/Myportfolio/static/media/resume.140af95ee3780ce87cb2.pdf",
+    "static/media/humble.png": "/Myportfolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Myportfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Myportfolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/Vector2.png": "/Myportfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Myportfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "index.html": "/Myportfolio/index.html",
+    "main.07ac4c7f.css.map": "/Myportfolio/static/css/main.07ac4c7f.css.map",
+    "main.d3662fd9.js.map": "/Myportfolio/static/js/main.d3662fd9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ac4c7f.css",
+    "static/js/main.d3662fd9.js"
+  ]
+}
